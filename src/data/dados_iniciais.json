@@ -1,11 +1,10 @@
 {
   "categorias": [
     {
-      "titulo": "NSC Game",
+      "titulo": "Ranking Visualizações",
       "link": "https://www.youtube.com/watch?v=BaVNFoQRg8s",
       "cor": "#191970",
       "link_extra": {
-        "text": "ResidentEvil 7 - Série",
         "url": "https://www.youtube.com/watch?v=BaVNFoQRg8s"
       },
       "videos": [
@@ -14,28 +13,28 @@
           "url": "https://www.youtube.com/watch?v=BaVNFoQRg8s"
         },
         {
-          "titulo": "Resident Evil 7 - GamePlay Parte -1 ",
-          "url": "https://www.youtube.com/watch?v=BaVNFoQRg8s"
+          "titulo": "Gorillaz - Feel Good Inc",
+          "url": "https://www.youtube.com/watch?v=HyHNuVaZJ-k"
         },
         {
-          "titulo": "Resident Evil 7 - GamePlay Parte -1 ",
-          "url": "https://www.youtube.com/watch?v=BaVNFoQRg8s"
+          "text": "Supernatural",
+          "url": "https://www.youtube.com/watch?v=CX1Wn5zkfI8"
         },
         {
-          "titulo": "Resident Evil 7 - GamePlay Parte -1 ",
-          "url": "https://www.youtube.com/watch?v=BaVNFoQRg8s"
+          "titulo": "Foo Fighters. Walk",
+          "url": "https://www.youtube.com/watch?v=4PkcfQtibmU"
         },
         {
-          "titulo": "Resident Evil 7 - GamePlay Parte -1 ",
-          "url": "https://www.youtube.com/watch?v=BaVNFoQRg8s"
+          "titulo": "The Lord of the Rings",
+          "url": "https://www.youtube.com/watch?v=V75dMMIW2B4"
         },
         {
-          "titulo": "Resident Evil 7 - GamePlay Parte -1 ",
-          "url": "https://www.youtube.com/watch?v=BaVNFoQRg8s"
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
         },
         {
-          "titulo": "Resident Evil 7 - GamePlay Parte -1 ",
-          "url": "https://www.youtube.com/watch?v=BaVNFoQRg8s"
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
           "titulo": "Resident Evil 7 - GamePlay Parte -1 ",
@@ -44,58 +43,58 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Músicas",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "titulo": "Red Hot Chili Peppers - Dark Necessities",
+        "url": "https://www.youtube.com/watch?v=Q0oIoR9mLwc"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Audioslave - Like a Stone ",
+          "url": "https://www.youtube.com/watch?v=7QU1nvuxaMA"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Metallica: Nothing Else Matters",
+          "url": "https://www.youtube.com/watch?v=tAGnKpE4NCI"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Gorillaz - Feel Good Inc",
+          "url": "https://www.youtube.com/watch?v=HyHNuVaZJ-k"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "text": "Metallica - The Unforgiven ",
+          "url": "https://www.youtube.com/watch?v=Ckom3gf57Yw"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Foo Fighters. Walk",
+          "url": "https://www.youtube.com/watch?v=4PkcfQtibmU"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Series",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Supernatural",
+        "url": "https://www.youtube.com/watch?v=CX1Wn5zkfI8"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Game of Thrones",
+          "url": "https://www.youtube.com/watch?v=gcTkNV5Vg1E"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Vikings ",
+          "url": "https://www.youtube.com/watch?v=f5av6OqFwz0"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "text": "Supernatural",
+          "url": "https://www.youtube.com/watch?v=CX1Wn5zkfI8"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Game of Thrones",
+          "url": "https://www.youtube.com/watch?v=gcTkNV5Vg1E"
         }
       ]
     },
@@ -104,20 +103,20 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "The Lord of the Rings",
+          "url": "https://www.youtube.com/watch?v=V75dMMIW2B4"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "The Hobbit ",
+          "url": "https://www.youtube.com/watch?v=JTSoD4BBCJc"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "A Origem",
+          "url": "https://www.youtube.com/watch?v=R_VX0e0PX90"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "O Resgate do Soldado Ryan",
+          "url": "https://www.youtube.com/watch?v=WdHJ_nLRjIA"
         }
       ]
     },
@@ -125,13 +124,17 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Melhores Games",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
-      "videos": [
+      "videos": [        
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Titanfall 2",
+          "url": "https://www.youtube.com/watch?v=VqeMjHmL9eg"
+        },
+        {
+          "titulo": "The Witcher 3:",
+          "url": "https://www.youtube.com/watch?v=c0i88t0Kacs"
         },
         {
           "titulo": "Assassins Creed Valhalla",
