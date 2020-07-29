@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Ranking Visualizações",
+      "titulo": "Mais Vistos",
       "link": "https://www.youtube.com/watch?v=BaVNFoQRg8s",
       "cor": "#191970",
       "link_extra": {
@@ -76,7 +76,6 @@
       "titulo": "Series",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Supernatural",
         "url": "https://www.youtube.com/watch?v=CX1Wn5zkfI8"
       },
       "videos": [
@@ -85,7 +84,7 @@
           "url": "https://www.youtube.com/watch?v=gcTkNV5Vg1E"
         },
         {
-          "titulo": "Vikings ",
+          "titulo": "Vikings",
           "url": "https://www.youtube.com/watch?v=f5av6OqFwz0"
         },
         {
@@ -93,13 +92,17 @@
           "url": "https://www.youtube.com/watch?v=CX1Wn5zkfI8"
         },
         {
-          "titulo": "Game of Thrones",
-          "url": "https://www.youtube.com/watch?v=gcTkNV5Vg1E"
+          "titulo": "Homeland",
+          "url": "https://www.youtube.com/watch?v=nETrHxI4E7g"
+        },
+        {
+          "titulo": "Lost",
+          "url": "https://www.youtube.com/watch?v=KTu8iDynwNc"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Cinema",
       "cor": "orange",
       "videos": [
         {
@@ -124,7 +127,6 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Melhores Games",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [        
@@ -155,32 +157,30 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Esporte",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "url": "https://www.youtube.com/watch?v=CWWOW7T82Hw"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Dribles Mais Humilhantes Da História Do Futebol",
+          "url": "https://www.youtube.com/watch?v=CWWOW7T82Hw"        },
+        {
+          "titulo": "Greatest Sports Moments",
+          "url": "https://www.youtube.com/watch?v=o7W7OvETO40"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "TOP 10 MOST EPIC NBA MOMENTS EVER",
+          "url": "https://www.youtube.com/watch?v=WaYAhkH2cJM"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Top 10 Dramatic F1 Moments of 2019",
+          "url": "https://www.youtube.com/watch?v=8qwZ3p5w2Xg"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "MotoGP Historic Battles -- Rossi vs Stoner Laguna Seca 08",
+          "url": "https://www.youtube.com/watch?v=JY9mrKR5SkA"
         }
       ]
     }

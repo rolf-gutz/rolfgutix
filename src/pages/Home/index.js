@@ -23,19 +23,18 @@ function Home () {
           
           category={dadosIniciais.categorias[1]}
         /> 
-                <Carousel
-          ignoreFirstVideo
+        <Carousel
+          
           category={dadosIniciais.categorias[2]}
         /> 
-                <Carousel
+        <Carousel
           
           category={dadosIniciais.categorias[3]}
         /> 
                 <Carousel
           category={dadosIniciais.categorias[4]}
         /> 
-                <Carousel
-          ignoreFirstVideo
+        <Carousel
           category={dadosIniciais.categorias[5]}
         /> 
 

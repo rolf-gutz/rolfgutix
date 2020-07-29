@@ -1,7 +1,12 @@
 * {
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Krona One', sans-serif;
 }
+
+/* .{
+  font-family: 'Fredoka One', cursive;
+} */
 
 :root {
   --primary: #FF0000	;
