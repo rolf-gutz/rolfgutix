@@ -12,7 +12,7 @@ function Home () {
         <BannerMain 
           videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
           url={dadosIniciais.categorias[0].videos[0].url}
-          videoDescription={"O que um um cara abandonado vai fazer atrás da mulher que lhe deu um pé na bunda? Que tipo de amor é esse? Descubra comigo na primeira parte de ResidentEvil 7!"}
+          videoDescription={"Nós acreditamos que o tempo decorre de forma linear, que ele avança uniformemente para sempre.... Até o infinito."}
         />
 
         <Carousel

@@ -3,7 +3,7 @@
     {
       "titulo": "Mais Vistos",
       "link": "https://www.youtube.com/watch?v=BaVNFoQRg8s",
-      "cor": "#191970",
+      "cor": "red",
       "link_extra": {
         "url": "https://www.youtube.com/watch?v=BaVNFoQRg8s"
       },
@@ -44,7 +44,7 @@
     },
     {
       "titulo": "Músicas",
-      "cor": "#00C86F",
+      "cor": "red",
       "link_extra": {
         "titulo": "Red Hot Chili Peppers - Dark Necessities",
         "url": "https://www.youtube.com/watch?v=Q0oIoR9mLwc"
@@ -74,7 +74,7 @@
     },
     {
       "titulo": "Series",
-      "cor": "#9cd33b",
+      "cor": "red",
       "link_extra": {
         "url": "https://www.youtube.com/watch?v=CX1Wn5zkfI8"
       },
@@ -103,7 +103,7 @@
     },
     {
       "titulo": "Cinema",
-      "cor": "orange",
+      "cor": "red",
       "videos": [
         {
           "titulo": "The Lord of the Rings",
@@ -158,7 +158,7 @@
     },
     {
       "titulo": "Esporte",
-      "cor": "#6b5be2",
+      "cor": "red",
       "link_extra": {
         "url": "https://www.youtube.com/watch?v=CWWOW7T82Hw"
       },
